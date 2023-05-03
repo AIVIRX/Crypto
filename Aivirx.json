@@ -1,9 +1,6 @@
 {
-  "name":"Aivirx",
-  "symbol":"AIVIRX",
-  "description":"",
-  "seller_fee_basis_points":0,
-  "external_url":"",
-  "file_type":"image/png",
-  "image":"https://raw.githubusercontent.com/AIVIRX/Crypto/main/IMG_2549.JPG"
+    "name": "Aivirx",
+    "symbol": "Aivirx",
+    "description": "The Official Aivirx Crypto Token",
+    "image": "https://gateway.pinata.cloud/ipfs/QmW2vJYU8aDwbNDgj6P3M1U3QaYmiYdFZLZYt2wbiojGiB?_gl=1*gf7jnr*rs_ga*MDkxYzViYjktN2Q4NC00NjAzLTg0ODctM2E5ZDMxODM3NmJl*rs_ga_5RMPXG14TE*MTY4MzA3NzE1OC4xLjEuMTY4MzA3NzQzOC42MC4wLjA."
 }
