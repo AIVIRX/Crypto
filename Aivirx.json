@@ -1,7 +1,9 @@
 {
-  "name": "Aivirx",
-  "symbol": "AIVIRX",
-  "uri": "https://raw.githubusercontent.com/AIVIRX/Crypto/main/IMG_2549.JPG",
-  "sellerFeeBasisPoints": 0,
-  "creators": null
+  "name":"Aivirx",
+  "symbol":"AIVIRX",
+  "description":"",
+  "seller_fee_basis_points":0,
+  "external_url":"",
+  "file_type":"image/png",
+  "image":"https://raw.githubusercontent.com/AIVIRX/Crypto/main/IMG_2549.JPG"
 }
